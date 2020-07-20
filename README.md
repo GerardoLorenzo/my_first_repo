@@ -1,29 +1,27 @@
-# This is a large heading
+# Gerardo Lorenzo
 
-## This is a smaller heading
+### Ubicación geográfica
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Actualmente vivo en Marindia, que es un balneario de la Costa de Oro del departamento de Canelones, en la República Oriental del Uruguay
 
-- This is
-- an unordered
-- list
+### Libros
 
-1. This is
-2. an ordered
-3. list
+Tres de mis libros preferidos:
 
-Here is `some code` in the middle of a sentence.
+- *Las Fuerzas Morales* de José Ingenieros
+- *La Jóven Guardia* de Aleksandr Fadéyev
+- *Juan Salvador Gaviota* de Richard Bach
 
-```
-This is
-a block
-of code
-```
+### Comidas favoritas
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Tres de mis comida favoritas:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Asado (a la parrilla, obviamente!)
+2. Canelones de verdura
+3. Pascualina de tallos de zanahoria
+
+### Contacto
+
+La mejor forma de contactarme es a través de mi correo electrónico: (glorenzo68@yahoo.com)
+
 
